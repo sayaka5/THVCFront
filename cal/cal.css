@@ -1,0 +1,9 @@
+.fc-button {
+    background-color: #0369a1 !important;
+}
+.fc-list-event {
+    cursor: pointer;
+}
+.fc-button-active.forcehide {
+    opacity: 0 !important;
+}
